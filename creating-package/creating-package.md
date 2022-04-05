@@ -1,1 +1,5 @@
 # Paket Oluşturma
+
+```
+flutter create
+```
