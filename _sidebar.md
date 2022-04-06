@@ -7,9 +7,9 @@
   - [pub.dev üzerinden](package-usage/from-pubdev.md)
 
 * [Paket Oluşturma](creating-package/creating-package.md)
-  - Terminal üzerinden
-  - VSCode ile
-  - Android Studio ile
+  - [Terminal üzerinden](creating-package/from-terminal.md)
+  - [VSCode ile](creating-package/with-vscode.md)
+  - [Android Studio ile](creating-package/with-androidstudio.md)
 
 * [Paket Geliştirme](package-development/package-development.md)
   - export kullanımı
