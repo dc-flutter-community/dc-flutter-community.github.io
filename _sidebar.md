@@ -22,4 +22,4 @@
 
 * [Paket Güncelleme]()
 
-* [Katkıda Bulunanlar]()
+* [Katkıda Bulunanlar](contributors/contributors.md)
