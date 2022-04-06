@@ -2,9 +2,9 @@
 * [Ana Sayfa](README.md)
 
 * [Paket Kullanımı](package-usage.md)
-  - Dosya yolu ile
-  - Git üzerinden
-  - pub.dev üzerinden
+  - [Dosya yolu ile](by-file-path.md)
+  - [Git üzerinden](from-git.md)
+  - [pub.dev üzerinden](from-pubdev.md)
 
 * [Paket Oluşturma](creating-package/creating-package.md)
   - Terminal üzerinden
