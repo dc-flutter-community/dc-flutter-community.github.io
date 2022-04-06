@@ -1,10 +1,10 @@
 <!-- docs/_sidebar.md -->
 * [Ana Sayfa](README.md)
 
-* [Paket Kullanımı](package-usage.md)
-  - [Dosya yolu ile](by-file-path.md)
-  - [Git üzerinden](from-git.md)
-  - [pub.dev üzerinden](from-pubdev.md)
+* [Paket Kullanımı](package-usage/package-usage.md)
+  - [Dosya yolu ile](package-usage/by-file-path.md)
+  - [Git üzerinden](package-usage/from-git.md)
+  - [pub.dev üzerinden](package-usage/from-pubdev.md)
 
 * [Paket Oluşturma](creating-package/creating-package.md)
   - Terminal üzerinden
