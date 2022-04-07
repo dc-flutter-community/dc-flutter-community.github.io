@@ -23,7 +23,7 @@
 <font size="4">Burada Flutter paket projemizi kaydetmek istediğimiz dizini belirttikten sonra aşağıdaki kodumuzu terminale girerek proje oluşturma işlemini tamamlamış oluyoruz.</font>
 
 ``` 
-flutter create --template=package paket_adı 
+flutter create --template=package paket_adi
 ```
 
 
@@ -59,7 +59,7 @@ flutter create --template=package paket_adı
 <font size="4">Burada Dart paket projemizi kaydetmek istediğimiz dizini belirttikten sonra aşağıdaki kodumuzu terminale girerek proje oluşturma işlemini tamamlamış oluyoruz.</font>
 
 ```
-dart create --template=package-simple paket_adı
+dart create --template=package-simple paket_adi
 ```
 
 <font size="4">Oluşan paket projemizin dosya yapısı ise şu şekildedir:</font>
