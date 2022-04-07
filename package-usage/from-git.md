@@ -1,6 +1,6 @@
 ## Git Üzerinden Paket Kullanımı 
 
-Bazı paketler pub.dev üzerinde yayınlanmamış olsa bile açık kaynak olarak GitHub üzerinde mevcuttur. Bu tür durumlarda kullanmak istediğimiz paketi GitHub üzerinden projemize entegre ederek kullanabiliriz. 
+<font size="4">Bazı paketler pub.dev üzerinde yayınlanmamış olsa bile açık kaynak olarak GitHub üzerinde mevcuttur. Bu tür durumlarda kullanmak istediğimiz paketi GitHub üzerinden projemize entegre ederek kullanabiliriz. 
 
 Kullanımı ise şu şekildedir.
 
@@ -13,4 +13,4 @@ dependencies:
       url: git://github.com/flutter/plugin1.git
 ```
 
-Artık Git üzerinden çektiğimiz paketimiz kullanıma hazır durumdadır.
+Artık Git üzerinden çektiğimiz paketimiz kullanıma hazır durumdadır.</font>

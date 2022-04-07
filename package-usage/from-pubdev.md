@@ -1,6 +1,6 @@
 ## Pub.dev Üzerinden Paket Kullanımı 
 
-Öncelikle pub.dev'in ne olduğundan bahsedelim.
+<font size="4">Öncelikle pub.dev'in ne olduğundan bahsedelim.
 Pub.dev; Flutter ve Dart paketlerinin yer aldığı açık kaynak bir platformdur. Geliştirdiğimiz paketlerimizi burada insanlarla paylaşabilir ve onlarında kullanımına sunabiliriz. Şimdi ise pub.dev üzerinden paket kullanımını inceleyelim.
 
 Paketimizin eğer proje kullanıma sunulduktan sonra dahi kullanılmasını istiyorsak aşağıdaki şekilde terminal kısmına kod bloğumuzu ekliyoruz:
@@ -15,4 +15,4 @@ Paketimizin sadece geliştirme aşamasında kullanılmasını ve kullanıcıya s
 flutter pub add -d <package-name>
 ```
 
-Bu şekilde paketi projemize ekledikten sonra artık istediğimiz yerde kullanabiliriz.
+Bu şekilde paketi projemize ekledikten sonra artık istediğimiz yerde kullanabiliriz.</font>
