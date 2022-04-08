@@ -20,6 +20,6 @@
   - Yayına hazırlık
   - Yayınlama
 
-* [Paket Güncelleme]()
+* Paket Güncelleme
 
 * [Katkıda Bulunanlar](contributors/contributors.md)
