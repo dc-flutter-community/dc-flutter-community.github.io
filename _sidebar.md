@@ -15,6 +15,7 @@
   - export kullanımı
   - src klasörü
   - Faydalı lint kuralları
+  - [CHANGELOG](package-development/changelog-file.md)
 
 * [Paket Yayınlama](publishing-package/publishing-package.md)
   - Yayına hazırlık
