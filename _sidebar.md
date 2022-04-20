@@ -17,6 +17,7 @@
   - Faydalı lint kuralları
   - [CHANGELOG](package-development/changelog-file.md)
   - [LICENSE](package-development/license-file.md)
+  - [PUBSPEC.YAML](package-development/pubspec-file.md)
 
 * [Paket Yayınlama](publishing-package/publishing-package.md)
   - Yayına hazırlık
