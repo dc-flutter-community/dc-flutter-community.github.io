@@ -16,6 +16,7 @@
   - src klasörü
   - Faydalı lint kuralları
   - [CHANGELOG](package-development/changelog-file.md)
+  - [LICENSE](package-development/license-file.md)
 
 * [Paket Yayınlama](publishing-package/publishing-package.md)
   - Yayına hazırlık
