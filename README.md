@@ -4,7 +4,7 @@
 
 ## Paket Nedir?
 
-<font size="4">Paket; geliştiricilerin Dart/Flutter projelerindeki ihtiyaçlarını karşılamak üzere hazırlanmış açık kaynaklı kod bütünleridir. Paket kullanımı ile her ihtiyacı sıfırdan kodlamayarak zaman tasarrufu elde edebiliriz.</font> 
+Paket; geliştiricilerin Dart/Flutter projelerindeki ihtiyaçlarını karşılamak üzere hazırlanmış açık kaynaklı kod bütünleridir. Paket kullanımı ile her ihtiyacı sıfırdan kodlamayarak zaman tasarrufu elde edebiliriz.
 
 ## Paket Türleri
 
