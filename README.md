@@ -1,15 +1,14 @@
-# Developer Challenge Akademi
- 
-  
 ![logo](_media/cover.png ':size=450')
 
+# Developer Challenge Akademi
 
 ## Paket Nedir?
 
-<font size="4">Paket; biz ya da diğer geliştiricilerin oluşturduğu, çalışmayı kolaylaştırmak ve daha az zaman harcamak için projenize dahil edebileceğiniz açık kaynaklı kodlardır. Bu yüzden paket kullanmak bizlere çoğu zaman birçok açıdan kolaylık sağlamaktadır.</font> 
+Paket; geliştiricilerin Dart/Flutter projelerindeki ihtiyaçlarını karşılamak üzere hazırlanmış açık kaynaklı kod bütünleridir. Paket kullanımı ile her ihtiyacı sıfırdan kodlamayarak zaman tasarrufu elde edebiliriz.
 
-## Paket Türleri
+Projenize dahil ettiğiniz her paket, Dart/Flutter projeleri gibi benzersiz bir tanımlayıcıya sahip olmalıdır.
 
+Paketler
 <font size="4">İki tip paket türü vardır.
 * **Flutter Paketleri (Flutter packages):** Native platformlardan bağımsız sadece Flutter ve Dart SDK’leri kullanarak yazılmış paketlerdir. 
 Pub.dev üzerindeki en popüler Flutter paketlerine [buradan](https://pub.dev/packages?q=sdk%3Aflutter) ulaşabilirsiniz.
