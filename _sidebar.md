@@ -21,8 +21,7 @@
   - [README](package-development/readme-file.md)
 
 * [Paket Yayınlama](publishing-package/publishing-package.md)
-  - Yayına hazırlık
-  - Yayınlama
+  - [Yayınlama](publishing-package/publishing.md)
 
 * Paket Güncelleme
 
