@@ -21,4 +21,4 @@ _**Dart Paketi**: [email_validator](https://pub.dev/packages/email_validator) is
 
 _**Flutter Paketi**: [infinite_scroll_pagination](https://pub.dev/packages/infinite_scroll_pagination) isimli paket arayüz ile sayfalama işlevi sağladığından sadece Flutter uygulamalarında kullanılabilir._
 
-_**Plugin Paketi**: [geolocator](https://pub.dev/packages/geolocator) isimli paket çalıştığı cihazın konu bilgisini dart kodları tarafından erişilebilir kılmaya olanağı sunmaktadır. Android, iOS, MacOS, Web, Windows platformlarını desteklediği için, o platformlara özgü kod yapıları içermektedir. Örneğin iOS için CLLocationManager ile Swift veya Objective-C dillerini kullanarak etkileşim kurmakmaktadır._
+_**Plugin Paketi**: [geolocator](https://pub.dev/packages/geolocator) isimli paket çalıştığı cihazın konu bilgisini dart kodları tarafından erişilebilir kılmaya olanağı sunmaktadır. Android, iOS, MacOS, Web, Windows platformlarını desteklediği için, o platformlara özgü kod yapıları içermektedir. Örneğin, iOS için CLLocationManager ile Swift veya Objective-C dillerini kullanarak etkileşim kurmaktadır._
