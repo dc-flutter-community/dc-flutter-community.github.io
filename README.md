@@ -11,11 +11,13 @@ Resmi paket dağıtım web adresi olan *pub.dev* üzerinde ihtiyacınız olan pa
 Sizlere bu döküman ile kullanım olsun geliştirme olsun Flutter paket ekosistemine dair herşeyi paylaşmak istiyoruz.
 Haydi başlayalım.
 
-## Paket Türleri
+## Plugin (Eklenti) Paketi Nedir?
 
-Sadece Dart kodlarından oluşan paketleri Dart ve Flutter uygulamalarınızda her platforma destek verecek şekilde kullanabilirsiniz.
-> Örneğin [email_validator](https://pub.dev/packages/email_validator) isimli paket teknik olarak bir e-posta adresinin doğruluğunu teyit etme imkanı sunmaktadır.
+Sadece Dart kodlarından oluşan paketleri Dart ve Flutter uygulamalarınızda her platforma destek verecek şekilde kullanabilirsiniz. Bununla beraber bir paket plaforma özgü kod yapısı içeriyorsa o paketlere plugin (eklenti) paketi adı veriyoruz. 
 
-Bununla beraber bir paket plaforma özgü kod yapısı içeriyorsa o paketlere plugin (eklenti) paketi adı veriyoruz. 
+Örnekler:
+> Dart Paketi: [email_validator](https://pub.dev/packages/email_validator) isimli paket teknik olarak bir e-posta adresinin doğruluğunu teyit etme imkanı sunmakta olup tüm Dart ve Flutter uygulamalarında kullanılabilir.
 
-> Örneğin [geolocator](https://pub.dev/packages/geolocator) isimli paket ios cihazlarda konum bilgisine erişebilmek için CLLocationManager ile Swift veya Objective-C dillerini kullanarak etkileşim kurmakmaktadır.
+> Flutter Paketi: [infinite_scroll_pagination](https://pub.dev/packages/infinite_scroll_pagination) isimli paket arayüz ile sayfalama işlevi sağladığından sadece Flutter uygulamalarında kullanılabilir.
+
+> Plugin Paketi: [geolocator](https://pub.dev/packages/geolocator) isimli paket çalıştığı cihazın konu bilgisini dart kodları tarafından erişilebilir kılmaya olanağı sunmaktadır. Android, iOS, MacOS, Web, Windows platformlarını desteklediği için, o platformlara özgü kod yapıları içermektedir. Örneğin iOS için CLLocationManager ile Swift veya Objective-C dillerini kullanarak etkileşim kurmakmaktadır.
