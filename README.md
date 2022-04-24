@@ -6,12 +6,20 @@
 
 Paket; geliştiricilerin Dart/Flutter projelerindeki ihtiyaçlarını karşılamak üzere hazırlanmış açık kaynaklı kod bütünleridir. Paket kullanımı ile her ihtiyacı sıfırdan kodlamayarak zaman tasarrufu elde edebiliriz.
 
-Projenize dahil ettiğiniz her paket, Dart/Flutter projeleri gibi benzersiz bir tanımlayıcıya sahip olmalıdır.
+Resmi paket dağıtım web adresi olan *pub.dev* üzerinde ihtiyacınız olan paketleri aratabilir, dilerseniz kendiniz de paket oluşturarak ekleyebilirsiniz.
 
-Paketler
-<font size="4">İki tip paket türü vardır.
-* **Flutter Paketleri (Flutter packages):** Native platformlardan bağımsız sadece Flutter ve Dart SDK’leri kullanarak yazılmış paketlerdir. 
-Pub.dev üzerindeki en popüler Flutter paketlerine [buradan](https://pub.dev/packages?q=sdk%3Aflutter) ulaşabilirsiniz.
-* **Dart Paketleri (Dart Packages):** Dart kodunda yazılmış bir API içeren ve Android için (Java veya Kotlin) ve / veya iOS (Objective-C veya Swift kullanarak) platforma özgü bir uygulama içeren özel bir Dart paketi. 
-Pub.dev üzerindeki en popüler Dart paketlerine [buradan](https://pub.dev/packages?q=sdk%3Adart) ulaşabilirsiniz.</font> 
+Sizlere bu döküman ile kullanım olsun geliştirme olsun Flutter paket ekosistemine dair herşeyi paylaşmak istiyoruz.
+Haydi başlayalım.
+
+## Paket Türleri
+
+Sadece Dart kodlarından oluşan paketleri Dart ve Flutter uygulamalarınızda her platforma destek verecek şekilde kullanabilirsiniz.
+> Örneğin [email_validator](https://pub.dev/packages/email_validator) isimli paket teknik olarak bir e-posta adresinin doğruluğunu teyit etme imkanı sunmaktadır.
+
+Bununla beraber bir paket plaforma özgü kod yapısı içeriyorsa o paketlere plugin (eklenti) paketi adı veriyoruz. 
+
+> Örneğin [geolocator](https://pub.dev/packages/geolocator) isimli paket ios cihazlarda konum bilgisine erişebilmek için CLLocationManager ile Swift veya Objective-C dillerini kullanarak etkileşim kurmakmaktadır.
+
+Projenize dahil ettiğiniz her paket, (Dart/Flutter projeleri gibi) dahil edileceği proje kapsamında benzersiz bir tanımlayıcıya sahip olmalıdır.
+
 
