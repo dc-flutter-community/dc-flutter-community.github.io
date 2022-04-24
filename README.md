@@ -19,7 +19,3 @@ Sadece Dart kodlarından oluşan paketleri Dart ve Flutter uygulamalarınızda h
 Bununla beraber bir paket plaforma özgü kod yapısı içeriyorsa o paketlere plugin (eklenti) paketi adı veriyoruz. 
 
 > Örneğin [geolocator](https://pub.dev/packages/geolocator) isimli paket ios cihazlarda konum bilgisine erişebilmek için CLLocationManager ile Swift veya Objective-C dillerini kullanarak etkileşim kurmakmaktadır.
-
-Projenize dahil ettiğiniz her paket, (Dart/Flutter projeleri gibi) dahil edileceği proje kapsamında benzersiz bir tanımlayıcıya sahip olmalıdır.
-
-
