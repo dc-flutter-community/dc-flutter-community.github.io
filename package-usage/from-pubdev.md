@@ -6,13 +6,13 @@ Pub.dev; Flutter ve Dart paketlerinin yer aldığı açık kaynak bir platformdu
 Paketimizin eğer proje kullanıma sunulduktan sonra dahi kullanılmasını istiyorsak aşağıdaki şekilde terminal kısmına kod bloğumuzu ekliyoruz:
 
 ``` 
-flutter pub add <package-name>
+flutter pub add <paket-adı>
 ```
 
 Paketimizin sadece geliştirme aşamasında kullanılmasını ve kullanıcıya sunulmamasını istiyorsak bu şekilde terminal kısmına kodumuzu yazıyoruz:
 
 ``` 
-flutter pub add -d <package-name>
+flutter pub add -d <paket-adı>
 ```
 
 Bu şekilde paketi projemize ekledikten sonra artık istediğimiz yerde kullanabiliriz.</font>
