@@ -21,7 +21,6 @@
 
 * [Paket Yayınlama](publishing-package/publishing-package.md)
   - [Yayınlama](publishing-package/publishing.md)
-
-* Paket Güncelleme
+  - Güncelleme
 
 * [Katkıda Bulunanlar](contributors/contributors.md)
