@@ -2,13 +2,8 @@
 
 ### Flutter Paket Projesi Oluşturma
 
-<font size="4">Öncelikle masaüstümüzün sağ alt kısmından **Başlat** tuşuna basıyoruz ve açılan arama çubuğunda **cmd** ya da **Komut İstemi** yazarak aratma işlemini gerçekleştiriyoruz.</font>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61869567/162211104-467b2751-d76c-450c-841f-d9103194b6ff.png" height="475"/>
-</p>
-
-<font size="4">Terminalimizi açtıktan sonra Flutter paket projemizi oluşturmak istediğimiz dizine gidiyoruz.</font>
+<font size="4">Terminalimizi açarak Flutter paket projemizi oluşturmak istediğimiz dizine gidiyoruz.</font>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61869567/162211506-fdb65c14-4b9c-49a5-b4c9-356be3726a64.png" width="550"/>
@@ -40,13 +35,7 @@ flutter create --template=package paket_adi
 
 ### Dart Paket Projesi Oluşturma
 
-<font size="4">Öncelikle masaüstümüzün sağ alt kısmından **Başlat** tuşuna basıyoruz ve açılan arama çubuğunda **cmd** ya da **Komut İstemi** yazarak aratma işlemini gerçekleştiriyoruz.</font>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61869567/162211104-467b2751-d76c-450c-841f-d9103194b6ff.png" height="475"/>
-</p>
-
-<font size="4">Terminalimizi açtıktan sonra Dart paket projemizi oluşturmak istediğimiz dizine gidiyoruz.</font>
+<font size="4">Terminalimizi açarak Dart paket projemizi oluşturmak istediğimiz dizine gidiyoruz.</font>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61869567/162218467-dd17a9a4-9511-402f-ad58-ebf262ea4654.png" width="675"/>
