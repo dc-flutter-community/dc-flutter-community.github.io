@@ -8,18 +8,10 @@
 > Windows için: **CTRL + Shift + P**, MacOS için **Command + Shift + P**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61869567/161999483-28cbe146-d276-445c-82b9-7c073563f45a.png" width="500"/>
-</p>
-
-<p align="center">
   <img width="312" alt="Screen Shot 2022-05-07 at 21 14 03" src="https://user-images.githubusercontent.com/63751824/167266716-869059ff-8e61-40d6-997c-0f813459e6a0.png">
 </p>
 
 <font size="4">Açılan bu sekmeden **Flutter New Project**'i seçiyoruz ve bizi ardından böyle bir ekran karşılayacaktır:</font>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61869567/162001909-725cd385-948e-4cef-a9a9-ca6ce02ca5b0.png" width="500"/>
-</p>
 
 <p align="center">
   <img width="715" alt="Screen Shot 2022-05-07 at 21 15 49" src="https://user-images.githubusercontent.com/63751824/167266766-ed28c5ce-ae78-45f6-a59b-84b529091c64.png">
