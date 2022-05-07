@@ -41,7 +41,7 @@
 
 ### Dart Paket Projesi Oluşturma
 
-<font size="4">Visual Studio Code uygulamasını açtıktan sonra **CTRL + Shift + P** tuşuna basarak komut paletini açıyoruz:</font>
+<font size="4">Visual Studio Code uygulamasını açtıktan sonra komut paletini açıyoruz:</font>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61869567/162194005-daa689aa-bfc5-49ea-b9fa-be86320cc4ec.png" width="500"/>
