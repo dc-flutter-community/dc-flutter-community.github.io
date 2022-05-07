@@ -42,7 +42,8 @@
 <font size="4">Açılan bu sekmeden **Dart New Project**'i seçiyoruz ve bizi ardından böyle bir ekran karşılayacaktır:</font>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61869567/162194137-fd726ec9-3b30-4559-aef1-f13f82f06d5d.png" width="500"/>
+  <img width="720" alt="Screen Shot 2022-05-07 at 21 49 43" src="https://user-images.githubusercontent.com/63751824/167267910-edb8ec66-f816-431d-9353-e0972a276577.png">
+
 </p>
 
 
@@ -51,7 +52,7 @@
 <font size="4">Oluşan paket projemizin dosya yapısı ise şu şekildedir:</font>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61869567/162194420-d6c24e84-78f2-4296-b143-8928307e56e2.png" width= "300 "height="300"/>
+  <img width="279" alt="Screen Shot 2022-05-07 at 21 52 11" src="https://user-images.githubusercontent.com/63751824/167267992-951ec90a-dd90-4a52-8395-035fe8f7e28f.png">
 </p>
 
 
