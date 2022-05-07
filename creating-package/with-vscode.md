@@ -2,7 +2,8 @@
 
 ### Flutter Paket Projesi Oluşturma
 
-<font size="4">Visual Studio Code uygulamasını açtıktan sonra **CTRL + Shift + P** tuşuna basarak komut paletini açıyoruz:</font>
+<font size="4">Visual Studio Code uygulamasını açtıktan sonra komut paletini açıyoruz:</font>
+(Windows için: **CTRL + Shift + P**, MacOS için **Command + Shift + P**)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61869567/161999483-28cbe146-d276-445c-82b9-7c073563f45a.png" width="500"/>
