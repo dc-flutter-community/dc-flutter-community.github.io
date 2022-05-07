@@ -22,8 +22,9 @@
 <font size="4">Oluşan paket projemizin dosya yapısı ise şu şekildedir:</font>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61869567/162000632-9ba5f7ae-c535-4c00-994b-4a3d8fa14dd3.png" width="300" height="300" />
+  <img width="277" alt="Screen Shot 2022-05-07 at 21 04 42" src="https://user-images.githubusercontent.com/63751824/167266480-4690dcfb-81c6-4621-b1d5-29775d30c7c4.png">
 </p>
+
 
 
 <p>&nbsp;</p>
