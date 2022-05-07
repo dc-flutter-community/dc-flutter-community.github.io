@@ -12,9 +12,8 @@
   - [Android Studio ile](creating-package/with-androidstudio.md)
 
 * [Paket Geliştirme](package-development/package-development.md)
-  - export kullanımı
-  - src klasörü
-  - Faydalı lint kuralları
+  - "export" Kullanımı
+  - "src" Klasörü
   - [pubspec.yaml](package-development/pubspec-file.md)
   - [CHANGELOG Dosyası](package-development/changelog-file.md)
   - [LICENSE Dosyası](package-development/license-file.md)
