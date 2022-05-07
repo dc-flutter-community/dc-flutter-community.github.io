@@ -16,9 +16,9 @@
   - src klasörü
   - Faydalı lint kuralları
   - [pubspec.yaml](package-development/pubspec-file.md)
-  - [CHANGELOG](package-development/changelog-file.md)
-  - [LICENSE](package-development/license-file.md)
-  - [README](package-development/readme-file.md)
+  - [CHANGELOG Dosyası](package-development/changelog-file.md)
+  - [LICENSE Dosyası](package-development/license-file.md)
+  - [README Dosyası](package-development/readme-file.md)
 
 * [Paket Yayınlama](publishing-package/publishing-package.md)
   - [Yayınlama](publishing-package/publishing.md)
