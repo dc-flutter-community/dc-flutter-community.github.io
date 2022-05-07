@@ -36,9 +36,8 @@
 <font size="4">Visual Studio Code uygulamasını açtıktan sonra komut paletini açıyoruz:</font>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61869567/162194005-daa689aa-bfc5-49ea-b9fa-be86320cc4ec.png" width="500"/>
+  <img width="359" alt="Screen Shot 2022-05-07 at 21 42 00" src="https://user-images.githubusercontent.com/63751824/167267621-41c4e8ae-650a-44ce-b5c5-5d02df9b0e52.png">
 </p>
-
 
 <font size="4">Açılan bu sekmeden **Dart New Project**'i seçiyoruz ve bizi ardından böyle bir ekran karşılayacaktır:</font>
 
