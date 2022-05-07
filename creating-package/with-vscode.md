@@ -2,6 +2,7 @@
 
 ### Flutter Paket Projesi Oluşturma
 
+(font size'sız metin) Visual Studio Code uygulamasını açtıktan sonra komut paletini açıyoruz:
 <font size="4">Visual Studio Code uygulamasını açtıktan sonra komut paletini açıyoruz:</font>
 > Windows için: **CTRL + Shift + P**, MacOS için **Command + Shift + P**
 
