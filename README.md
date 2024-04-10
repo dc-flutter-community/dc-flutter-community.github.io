@@ -1,4 +1,4 @@
-# Katkıda Bulunanlar
+# Flutter Dizini 2024
 
 Flutter ve Dart ile geliştirme süreçlerine dair içerik listeleri bu dizinde buluşturuyoruz.
 
