@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-* [Ana Sayfa](soon.md)
+* [Ana Sayfa](README.md)
 * [Eklentiler](soon.md)
   - [Visual Studio Code Eklentileri](extensions/vscode.md)
   - [Android Studio Eklentileri](soon.md)
