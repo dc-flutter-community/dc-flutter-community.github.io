@@ -2,7 +2,7 @@
 
 ![logo](_media/logo.png ':size=100')
 
-# Developer Challenge Akademi<small>0.1</small>
+# Flutter Dizini <small>0.1</small>
 
 <!-- > Flutter Dizini  -->
 
