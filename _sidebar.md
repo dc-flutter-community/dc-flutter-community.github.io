@@ -1,6 +1,8 @@
 <!-- docs/_sidebar.md -->
 * [Ana Sayfa](soon.md)
-* [VSCode Eklentileri](soon.md)
+* [Eklentiler](soon.md)
+  - [Visual Studio Code Eklentileri](extensions/vscode.md)
+  - [Android Studio Eklentileri](soon.md)
 * [Mentörler](soon.md)
 * [Araçlar](soon.md)
 * [Repo'lar](soon.md)
