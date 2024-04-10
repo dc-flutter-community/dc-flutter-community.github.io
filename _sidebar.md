@@ -11,6 +11,6 @@
 * [Podcast'ler](soon.md)
 * [Makaleler](soon.md)
 * [İpuçları](soon.md)
-* [Uygulamalar](soon.md)
+* [Uygulamalar](content/apps.md)
 * [Ağlar](soon.md)
 * [Türkiye Flutter ve Dart Paket Yayıncıları Listesi](https://github.com/leventkantaroglu/pubdev-package-publishers)
