@@ -21,11 +21,11 @@
 
 * [Uygulamalar](soon.md)
 
-* [Ağlar](soon.md)
+- [Ağlar](soon.md)
 
 * [Katkıda Bulunanlar](soon.md)
 
-* [Paketler](package-usage/package-usage.md)
+- [Paketler](package-usage/package-usage.md)
   - [Paket Kullanımı](package-usage/package-usage.md)
     - [pub.dev üzerinden](package-usage/from-pubdev.md)
     - [Git üzerinden](package-usage/from-git.md)
