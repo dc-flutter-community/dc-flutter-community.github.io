@@ -25,7 +25,7 @@
 
 * [Katkıda Bulunanlar](soon.md)
 
-* [Paketler]
+* [Paketler](package-usage/package-usage.md)
   - [Paket Kullanımı](package-usage/package-usage.md)
     - [pub.dev üzerinden](package-usage/from-pubdev.md)
     - [Git üzerinden](package-usage/from-git.md)
