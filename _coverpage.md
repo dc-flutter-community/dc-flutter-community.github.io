@@ -2,7 +2,7 @@
 
 ![logo](_media/logo.png ':size=100')
 
-# Flutter Dizini <small>0.1</small>
+# Flutter Dizini <small>2024.1</small>
 
 <!-- > Flutter Dizini  -->
 
