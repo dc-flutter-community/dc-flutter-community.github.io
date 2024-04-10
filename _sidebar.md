@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 * [Ana Sayfa](README.md)
 
-* [VSCode Eklentileri](extensions/VS Code Extensions.md)
+* [VSCode Eklentileri](extensions/vscode-extensions.md)
 
 * [Paket Kullanımı](package-usage/package-usage.md)
   - [pub.dev üzerinden](package-usage/from-pubdev.md)
