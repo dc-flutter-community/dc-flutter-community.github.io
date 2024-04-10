@@ -4,9 +4,9 @@
 
 # Developer Challenge Akademi<small>0.1</small>
 
-<!-- > Flutter ve Dart Paket Geliştirme  -->
+<!-- > Flutter Dizini  -->
 
-- Paket Kullanımı, Paket Oluşturma, Paket Geliştirme, Paket Yayınlama, Paket Güncelleme
+- Flutter'a dair tüm kaynaklar dizini
 
 [Giriş](README.md)
 
