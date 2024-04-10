@@ -3,6 +3,28 @@
 
 * [VSCode Eklentileri](extensions/vscode-extensions.md)
 
+* [Mentörler](extensions/vscode-extensions.md)
+
+* [Araçlar](extensions/vscode-extensions.md)
+  
+* [Repo'lar](extensions/vscode-extensions.md)
+
+* [Mimari Önerileri](extensions/vscode-extensions.md)
+
+* [Video Kaynaklar](extensions/vscode-extensions.md)
+
+* [Podcast'ler](extensions/vscode-extensions.md)
+
+* [Makaleler](extensions/vscode-extensions.md)
+
+* [İpuçları](extensions/vscode-extensions.md)
+
+* [Uygulamalar](extensions/vscode-extensions.md)
+
+* [Ağlar](extensions/vscode-extensions.md)
+
+* [Katkıda Bulunanlar](extensions/vscode-extensions.md)
+
 * [Paket Kullanımı](package-usage/package-usage.md)
   - [pub.dev üzerinden](package-usage/from-pubdev.md)
   - [Git üzerinden](package-usage/from-git.md)
